@@ -8,6 +8,6 @@ for(i=0;i<=a;i++);
 {
 n=n+i;
 }
-printf("%d,a);
+printf("%d",&a);
 return o;
 }
